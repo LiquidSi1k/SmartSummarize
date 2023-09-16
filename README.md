@@ -1,6 +1,6 @@
-PromptVerse APP
+SmartSumarize APP
 
-Discover and share AI-Genetarated Prompts
+AI summarizer by simply copy and paste articles found on the internet
 
 Tech Stack
 
