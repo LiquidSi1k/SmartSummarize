@@ -1,0 +1,2 @@
+# SmartSummarize
+AI Summarizer
